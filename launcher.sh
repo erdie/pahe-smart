@@ -1,11 +1,9 @@
 #!/bin/bash
-#!/bin/bash
 # Shell script sederhana untuk instalasi dan men-dial modem smartfren
 # Diuji pada Ubuntu 13.04 Raring Ringtail 32 bit
 # ----------------------------------------------------------------------------
 # Ditulis oleh Anna Erdiawan <http://erdinote.com/>
 # (c) 2013 erdinote.com under CC-BY-SA
-# <http://creativecommons.org/licenses/by-sa/3.0/>
 # ----------------------------------------------------------------------------
 # Terakhir diupdate: 8/Juni/2013
 # ----------------------------------------------------------------------------
