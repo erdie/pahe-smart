@@ -1,8 +1,7 @@
 pahe-smart
 ==========
 
-Bash Script for Dialing Smartfren Modem CE682, AC6822, CE782
-
+Bash Script for Dialing Smartfren Modem CE682, AC6822, CE782<br>
 Working for Ubuntu 13.04
 
 
