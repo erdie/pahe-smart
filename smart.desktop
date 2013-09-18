@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Smartfren Dialer
+GenericName=Smartfren Dialer
+Comment=Dial Smartfren Modem
+Exec=gksu xterm /opt/pahe/smart.sh
+Keywords=settings;configuration;
+Icon=/usr/share/icons/smart.png
+Categories=System;Settings;
+Version=1.0
+Type=Application
